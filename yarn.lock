@@ -1401,6 +1401,11 @@ chromatic@^12.0.0:
   resolved "https://registry.npmjs.org/chromatic/-/chromatic-12.2.0.tgz"
   integrity sha512-GswmBW9ZptAoTns1BMyjbm55Z7EsIJnUvYKdQqXIBZIKbGErmpA+p4c0BYA+nzw5B0M+rb3Iqp1IaH8TFwIQew==
 
+chromatic@^13.3.4:
+  version "13.3.4"
+  resolved "https://registry.npmjs.org/chromatic/-/chromatic-13.3.4.tgz"
+  integrity sha512-TR5rvyH0ESXobBB3bV8jc87AEAFQC7/n+Eb4XWhJz6hW3YNxIQPVjcbgLv+a4oKHEl1dUBueWSoIQsOVGTd+RQ==
+
 cli-width@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/cli-width/-/cli-width-4.1.0.tgz"

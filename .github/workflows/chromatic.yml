@@ -26,3 +26,5 @@ jobs:
           #👇 Chromatic projectToken
           projectToken: chpt_a880b76330d1b31
           token: ${{ secrets.GITHUB_TOKEN }}
+          buildScriptName: build-storybook
+          onlyChanged: true
